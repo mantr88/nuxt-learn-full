@@ -5,7 +5,7 @@
 <template>
   <div class="h-screen text-white bg-slate-900">
     <p>Default Layout</p>
-
+    <Header />
     <slot />
   </div>
 </template>

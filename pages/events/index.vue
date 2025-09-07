@@ -1,5 +1,8 @@
 <script setup lang="ts">
 // Component logic
+definePageMeta({
+  middleware: "second",
+});
 </script>
 
 <template>
