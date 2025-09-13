@@ -5,6 +5,8 @@ const counter = useCounter();
 
 const store = useCounterStore();
 console.log(store);
+const response = await $fetch("/api/hello");
+console.log(response);
 </script>
 
 <template>
