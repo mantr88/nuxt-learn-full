@@ -1,0 +1,303 @@
+[
+  {
+    "id": 1,
+    "title": "Essence Mascara Lash Princess",
+    "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+    "category": "beauty",
+    "price": 9.99,
+    "discountPercentage": 7.17,
+    "rating": 4.94,
+    "stock": 5,
+    "tags": ["beauty", "mascara"],
+    "brand": "Essence",
+    "sku": "RCH45Q1A",
+    "weight": 2,
+    "dimensions": {
+      "width": 23.17,
+      "height": 14.43,
+      "depth": 28.01
+    },
+    "warrantyInformation": "1 month warranty",
+    "shippingInformation": "Ships in 1 month",
+    "availabilityStatus": "Low Stock",
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "Very unhappy with my purchase!",
+        "date": "2024-05-23T08:56:21.618Z",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "john.doe@x.dummyjson.com"
+      },
+      {
+        "rating": 2,
+        "comment": "Not as described!",
+        "date": "2024-05-23T08:56:21.618Z",
+        "reviewerName": "Nolan Gonzalez",
+        "reviewerEmail": "nolan.gonzalez@x.dummyjson.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Very satisfied!",
+        "date": "2024-05-23T08:56:21.618Z",
+        "reviewerName": "Scarlett Wright",
+        "reviewerEmail": "scarlett.wright@x.dummyjson.com"
+      }
+    ],
+    "returnPolicy": "30 days return policy",
+    "minimumOrderQuantity": 24,
+    "meta": {
+      "createdAt": "2024-05-23T08:56:21.618Z",
+      "updatedAt": "2024-05-23T08:56:21.618Z",
+      "barcode": "9164035109868",
+      "qrCode": "..."
+    },
+    "thumbnail": "...",
+    "images": ["...", "...", "..."]
+  },
+  {
+    "id": 2,
+    "title": "iPhone 9",
+    "description": "An apple mobile which is nothing like apple",
+    "category": "smartphones",
+    "price": 549,
+    "discountPercentage": 12.96,
+    "rating": 4.69,
+    "stock": 94,
+    "tags": ["smartphone", "apple"],
+    "brand": "Apple",
+    "sku": "XGYM2T1A",
+    "weight": 1,
+    "dimensions": {
+      "width": 11.55,
+      "height": 6.91,
+      "depth": 0.61
+    },
+    "warrantyInformation": "1 year warranty",
+    "shippingInformation": "Ships in 2 days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Great phone!",
+        "date": "2024-05-23T08:56:21.618Z",
+        "reviewerName": "Alice Johnson",
+        "reviewerEmail": "alice.johnson@x.dummyjson.com"
+      }
+    ],
+    "returnPolicy": "30 days return policy",
+    "minimumOrderQuantity": 1,
+    "meta": {
+      "createdAt": "2024-05-23T08:56:21.618Z",
+      "updatedAt": "2024-05-23T08:56:21.618Z",
+      "barcode": "1234567890123",
+      "qrCode": "..."
+    },
+    "thumbnail": "...",
+    "images": ["...", "...", "..."]
+  },
+  {
+    "id": 3,
+    "title": "Samsung Universe 9",
+    "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+    "category": "smartphones",
+    "price": 1249,
+    "discountPercentage": 15.46,
+    "rating": 4.09,
+    "stock": 36,
+    "tags": ["smartphone", "samsung"],
+    "brand": "Samsung",
+    "sku": "WZ7X2E1A",
+    "weight": 1,
+    "dimensions": {
+      "width": 13.91,
+      "height": 7.36,
+      "depth": 0.66
+    },
+    "warrantyInformation": "1 year warranty",
+    "shippingInformation": "Ships in 3 days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Good value for money.",
+        "date": "2024-05-23T08:56:21.618Z",
+        "reviewerName": "Bob Smith",
+        "reviewerEmail": "bob.smith@x.dummyjson.com"
+      }
+    ],
+    "returnPolicy": "30 days return policy",
+    "minimumOrderQuantity": 1,
+    "meta": {
+      "createdAt": "2024-05-23T08:56:21.618Z",
+      "updatedAt": "2024-05-23T08:56:21.618Z",
+      "barcode": "1234567890123",
+      "qrCode": "..."
+    },
+    "thumbnail": "...",
+    "images": ["...", "...", "..."]
+  },
+  {
+    "id": 4,
+    "title": "OPPOF19",
+    "description": "OPPO F19 is officially announced on April 2021.",
+    "category": "smartphones",
+    "price": 280,
+    "discountPercentage": 17.91,
+    "rating": 4.3,
+    "stock": 123,
+    "tags": ["smartphone", "oppo"],
+    "brand": "OPPO",
+    "sku": "VZ8Y3E1A",
+    "weight": 1,
+    "dimensions": {
+      "width": 16.43,
+      "height": 7.34,
+      "depth": 0.76
+    },
+    "warrantyInformation": "1 year warranty",
+    "shippingInformation": "Ships in 2 days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Decent phone for the price.",
+        "date": "2024-05-23T08:56:21.618Z",
+        "reviewerName": "Charlie Brown",
+        "reviewerEmail": "charlie.brown@x.dummyjson.com"
+      }
+    ],
+    "returnPolicy": "30 days return policy",
+    "minimumOrderQuantity": 1,
+    "meta": {
+      "createdAt": "2024-05-23T08:56:21.618Z",
+      "updatedAt": "2024-05-23T08:56:21.618Z",
+      "barcode": "1234567890123",
+      "qrCode": "..."
+    },
+    "thumbnail": "...",
+    "images": ["...", "...", "..."]
+  },
+  {
+    "id": 5,
+    "title": "Huawei P30",
+    "description": "Huawei's re-badged P30 Pro New Edition was officially unveiled in Germany",
+    "category": "smartphones",
+    "price": 499,
+    "discountPercentage": 10.58,
+    "rating": 4.09,
+    "stock": 32,
+    "tags": ["smartphone", "huawei"],
+    "brand": "Huawei",
+    "sku": "XGYM2T1A",
+    "weight": 1,
+    "dimensions": {
+      "width": 14.36,
+      "height": 7.39,
+      "depth": 0.73
+    },
+    "warrantyInformation": "1 year warranty",
+    "shippingInformation": "Ships in 3 days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Good phone but lacks Google services.",
+        "date": "2024-05-23T08:56:21.618Z",
+        "reviewerName": "Diana Prince",
+        "reviewerEmail": "diana.prince@x.dummyjson.com"
+      }
+    ],
+    "returnPolicy": "30 days return policy",
+    "minimumOrderQuantity": 1,
+    "meta": {
+      "createdAt": "2024-05-23T08:56:21.618Z",
+      "updatedAt": "2024-05-23T08:56:21.618Z",
+      "barcode": "1234567890123",
+      "qrCode": "..."
+    },
+    "thumbnail": "...",
+    "images": ["...", "...", "..."]
+  },
+  {
+    "id": 6,
+    "title": "MacBook Pro",
+    "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+    "category": "laptops",
+    "price": 1749,
+    "discountPercentage": 11.02,
+    "rating": 4.57,
+    "stock": 83,
+    "tags": ["laptop", "apple"],
+    "brand": "Apple",
+    "sku": "XGYM2T1A",
+    "weight": 3,
+    "dimensions": {
+      "width": 30.41,
+      "height": 21.24,
+      "depth": 1.56
+    },
+    "warrantyInformation": "1 year warranty",
+    "shippingInformation": "Ships in 5 days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent performance and build quality.",
+        "date": "2024-05-23T08:56:21.618Z",
+        "reviewerName": "Ethan Hunt",
+        "reviewerEmail": "ethan.hunt@x.dummyjson.com"
+      }
+    ],
+    "returnPolicy": "30 days return policy",
+    "minimumOrderQuantity": 1,
+    "meta": {
+      "createdAt": "2024-05-23T08:56:21.618Z",
+      "updatedAt": "2024-05-23T08:56:21.618Z",
+      "barcode": "1234567890123",
+      "qrCode": "..."
+    },
+    "thumbnail": "...",
+    "images": ["...", "...", "..."]
+  },
+  {
+    "id": 7,
+    "title": "Microsoft Surface Laptop 4",
+    "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+    "category": "laptops",
+    "price": 1499,
+    "discountPercentage": 10.23,
+    "rating": 4.43,
+    "stock": 68,
+    "tags": ["laptop", "microsoft"],
+    "brand": "Microsoft",
+    "sku": "XGYM2T1A",
+    "weight": 2,
+    "dimensions": {
+      "width": 32.3,
+      "height": 22.2,
+      "depth": 1.48
+    },
+    "warrantyInformation": "1 year warranty",
+    "shippingInformation": "Ships in 5 days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Great for productivity and portability.",
+        "date": "2024-05-23T08:56:21.618Z",
+        "reviewerName": "Fiona Gallagher",
+        "reviewerEmail": "fiona.gallagher@x.dummyjson.com"
+      }
+    ],
+    "returnPolicy": "30 days return policy",
+    "minimumOrderQuantity": 1,
+    "meta": {
+      "createdAt": "2024-05-23T08:56:21.618Z",
+      "updatedAt": "2024-05-23T08:56:21.618Z",
+      "barcode": "1234567890123",
+      "qrCode": "..."
+    },
+    "thumbnail": "...",
+    "images": ["...", "...", "..."]
+  }
+]
