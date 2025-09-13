@@ -6,5 +6,9 @@ definePageMeta({
 </script>
 
 <template>
-  <div class="">Custom page content goes here</div>
+  <div class="">
+    Custom page content goes here
+    <div><Counter /></div>
+    <div><CounterSecond /></div>
+  </div>
 </template>
