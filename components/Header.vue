@@ -19,7 +19,7 @@
         <NuxtLink
           to="/custom"
           class="hover:underline"
-          >Custom</NuxtLink
+          >Custom Layout</NuxtLink
         >
       </li>
       <li>
