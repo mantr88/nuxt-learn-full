@@ -8,7 +8,7 @@ definePageMeta({
 <template>
   <div class="">
     Custom page content goes here
-    <div><Counter /></div>
+    <div><CounterFirst /></div>
     <div><CounterSecond /></div>
   </div>
 </template>

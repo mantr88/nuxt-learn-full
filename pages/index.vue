@@ -16,7 +16,7 @@ console.log(response);
       <button @click="counter++">+</button>
       <button @click="counter--">-</button>
     </div>
-    <Counter />
+    <CounterFirst />
     <div><CounterSecond /></div>
   </div>
 </template>
