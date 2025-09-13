@@ -5,7 +5,7 @@ const {
   data: products,
   status,
   error,
-} = await useLazyFetch("/api/products", {
+} = await useLazyFetch<any[]>("/api/products", {
   transform: (_products) => _products,
 });
 
